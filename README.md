@@ -11,7 +11,7 @@ I'm a 16-year-old student from Switzerland 🇨🇭 with a passion for programmi
 - 📚 **Education**: 
   - I'm studying math and science at an advanced level and attend a university-level stochastic course every Saturday.
   - My math teacher allows me to work on **AI projects** during class, which I truly enjoy.
-- 🌌 **Fun Facts**: I love christmas cookies, tenis and hanging out with my friends!
+- 🌌 **Fun Facts**: I love christmas cookies, tennis and hanging out with my friends!
 
 ## Goals
 I aspire to make an impact in the field of **quantum computing** and explore innovative applications of AI and robotics. 
