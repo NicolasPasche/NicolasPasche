@@ -1,21 +1,29 @@
 # Hi there! 👋
 
 ## About Me
-I'm a 16-year-old student from Switzerland 🇨🇭 with a passion for programming, math, and physics. My interests lie at the intersection of technology and science, especially in areas like **quantum computing** and **machine learning**
+I'm a 17-year-old student from Switzerland 🇨🇭 with a passion for programming, math, and physics. My interests lie at the intersection of technology and science — especially in areas like **quantum computing**, **machine learning**, and **quant finance**.
 
 ### A Bit More About Me:
-- 🖥️ **Programming Experience**: I have **1.5 years of general programming experience**, primarily in Python, with some knowledge of C, C++ and C#.
-- 🔬 **Current Projects**: 
-  - I'm currently working on a **RL-controlled** robot with **human-recognition**-and **SLAM**-capabilities.
-- 📚 **Education**: 
-  - I'm studying math and science at an intermediate level and attend a UZH stochastic course every Saturday.
-  - My math teacher allows me to work on **AI projects** during class, which I truly enjoy.
-- 🌌 **Fun Facts**: I love christmas cookies, tennis and hanging out with my friends!
+- 🖥️ **Programming Experience**: I have **2 years of general programming experience**, primarily in Python, with some knowledge of C, C++, and C#.
+- 🔬 **Current Projects**:  
+  I'm currently working through the books **Deep Learning – Goodfellow, Bengio, Courville** and **The Concepts and Practice of Mathematical Finance – Mark S. Joshi**, with the goal of deeply understanding the theory and implementing key ideas in code.
+- 📚 **Education**:  
+  I’m currently in the second year of Swiss gymnasium (high school), but I'm already about **1.5 years ahead** of my classmates in mathematics.  
+  My math teacher allows me to work on **AI projects** during class, which I truly enjoy.
+
+### 🔍 Academic Enrichment
+I've participated in several **university-level STEM programs** for highly motivated students:
+
+- 🧪 **Early Studies in Stochastics and Combinatorics** at the University of Zurich  
+- 🌌 **UZH Masterclass in Particle Physics**  
+- 🧮 **ETH Zurich Study Week** in Mathematics
+
+These experiences allowed me to explore advanced topics, collaborate with researchers, and gain early exposure to real-world scientific problems.
+
+- 🎾 **Fun Facts**: I love Christmas cookies, tennis, and spending time with friends!
 
 ## Goals
-I aspire to make an impact in the field of **quantum computing** and explore innovative applications of AI and robotics. 
+I aspire to make an impact in the field of **quantum computing**, and explore innovative applications of **AI and mathematics** in science and industry.
 
 ## Let's Connect!
 Feel free to check out my repositories or drop me a message at nicolas.pasche@proton.me. I'm always open to collaboration, learning, and new ideas. 😊
-
----
