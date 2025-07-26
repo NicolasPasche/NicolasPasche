@@ -4,7 +4,7 @@
 I'm a 17-year-old student from Switzerland 🇨🇭 with a passion for programming, math, and physics. My interests lie at the intersection of technology and science — especially in areas like **quantum computing**, **machine learning**, and **quant finance**.
 
 ### A Bit More About Me:
-- 🖥️ **Programming Experience**: I have **2 years of general programming experience**, primarily in Python, with some knowledge of C, C++, and C#.
+- 🖥️ **Programming Experience**: I have **2 years of general programming experience**, primarily in Python, with some knowledge of C, C++, C#, and basic Web Developement skills.
 - 🔬 **Current Projects**:  
   I'm currently working through the books **Deep Learning – Goodfellow, Bengio, Courville** and **The Concepts and Practice of Mathematical Finance – Mark S. Joshi**, with the goal of deeply understanding the theory and implementing key ideas in code.
 - 📚 **Education**:  
