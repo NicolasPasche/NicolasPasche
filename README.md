@@ -14,7 +14,8 @@ I'm a 17-year-old student from Switzerland 🇨🇭 with a passion for programmi
 ### 🔍 Academic Enrichment
 I've participated in several **university-level STEM programs** for highly motivated students:
 
-- 🧪 **Early Studies in Stochastics and Combinatorics** at the University of Zurich  
+- 🧪 **Early Studies in Stochastics and Combinatorics** at the University of Zurich
+- 🧪 **Early Studies in Vector - and Complex Calculus** at the University of Zurich  
 - 🌌 **UZH Masterclass in Particle Physics**  
 - 🧮 **ETH Zurich Study Week** in Mathematics
 
