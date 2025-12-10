@@ -8,7 +8,7 @@ I'm a 17-year-old student from Switzerland 🇨🇭 with a passion for programmi
 - 🔬 **Current Projects**:  
   I'm currently working through the books **Deep Learning – Goodfellow, Bengio, Courville** and **The Concepts and Practice of Mathematical Finance – Mark S. Joshi**, with the goal of deeply understanding the theory and implementing key ideas in code.
 - 📚 **Education**:  
-  I’m currently in the second year of Swiss gymnasium (high school), but I'm already about **1.5 years ahead** of my classmates in mathematics.  
+  I’m currently in the second year of Swiss gymnasium (high school), but I'm already about **1.5 years ahead** of the schedule in mathematics.  
   My math teacher allows me to work on **AI projects** during class, which I truly enjoy.
 
 ### 🔍 Academic Enrichment
